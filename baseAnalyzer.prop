@@ -1,0 +1,6 @@
+t2 =    elixir11 half, img\\elixir11_half.png, 10, 0, 0.75
+t2a =   elixir12 half, img\\elixir12_half.png, 8, 0, 1.00
+t2b =   elixir12 almost full, img\\elixir12_almost_full.png, 10, 0, 1.70
+t3 =    elixir9, img\\elixir9.png, 10, 0, 0.75
+t4 =    elixir10, img\\elixir10.png, 14, 0, 1.00
+t5 =    elixir11, img\\elixir11.png, 14, 0, 1.50

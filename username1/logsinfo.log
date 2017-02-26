@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-06-13T14:49:41</date>
+  <millis>1434232181424</millis>
+  <sequence>0</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Logging screenshots of bases attacked to C:\Users\Mike\Dropbox\Workspace Storage\botting\ClashOfClans\Tyrone Jackson\logs</message>
+</record>
+<record>
+  <date>2015-06-13T14:49:41</date>
+  <millis>1434232181436</millis>
+  <sequence>1</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Logging screenshots of bases attacked to D:\Workspace Storage\full_logs\Tyrone Jackson</message>
+</record>
+<record>
+  <date>2015-06-13T14:49:45</date>
+  <millis>1434232185437</millis>
+  <sequence>2</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>botIndefinitely</method>
+  <thread>1</thread>
+  <message>Initiazlied bot with settings from C:\Users\Mike\Dropbox\Workspace Storage\botting\ClashOfClans\Tyrone Jackson.settings</message>
+</record>
+<record>
+  <date>2015-06-13T14:49:45</date>
+  <millis>1434232185441</millis>
+  <sequence>3</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>botIndefinitely</method>
+  <thread>1</thread>
+  <message>Current date and time = 2015-06-13_16-49-45</message>
+</record>
+<record>
+  <date>2015-06-13T14:49:48</date>
+  <millis>1434232188354</millis>
+  <sequence>4</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T14:50:15</date>
+  <millis>1434232215156</millis>
+  <sequence>5</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T14:50:15</date>
+  <millis>1434232215157</millis>
+  <sequence>6</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Waiting for army camp to fill...</message>
+</record>
+<record>
+  <date>2015-06-13T14:50:19</date>
+  <millis>1434232219585</millis>
+  <sequence>7</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Done filling army camp!</message>
+</record>
+<record>
+  <date>2015-06-13T14:50:21</date>
+  <millis>1434232221586</millis>
+  <sequence>8</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T14:50:48</date>
+  <millis>1434232248387</millis>
+  <sequence>9</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T14:51:07</date>
+  <millis>1434232267931</millis>
+  <sequence>10</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:51:21</date>
+  <millis>1434232281592</millis>
+  <sequence>11</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:51:35</date>
+  <millis>1434232295258</millis>
+  <sequence>12</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:51:48</date>
+  <millis>1434232308903</millis>
+  <sequence>13</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:52:02</date>
+  <millis>1434232322546</millis>
+  <sequence>14</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:52:16</date>
+  <millis>1434232336188</millis>
+  <sequence>15</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:52:29</date>
+  <millis>1434232349824</millis>
+  <sequence>16</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:06</date>
+  <millis>1434232386571</millis>
+  <sequence>17</sequence>
+  <logger>Tester</logger>
+  <level>WARNING</level>
+  <class>Tester</class>
+  <method>checkIfKicked</method>
+  <thread>1</thread>
+  <message>Clash of clans quit because disconnected</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:06</date>
+  <millis>1434232386572</millis>
+  <sequence>18</sequence>
+  <logger>Tester</logger>
+  <level>WARNING</level>
+  <class>Tester</class>
+  <method>checkIfKicked</method>
+  <thread>1</thread>
+  <message>Attempting to reload</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:07</date>
+  <millis>1434232387573</millis>
+  <sequence>19</sequence>
+  <logger>Tester</logger>
+  <level>WARNING</level>
+  <class>Tester</class>
+  <method>checkIfKicked</method>
+  <thread>1</thread>
+  <message>Waiting to return home</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:14</date>
+  <millis>1434232394831</millis>
+  <sequence>20</sequence>
+  <logger>Tester</logger>
+  <level>WARNING</level>
+  <class>Tester</class>
+  <method>checkIfKicked</method>
+  <thread>1</thread>
+  <message>Waiting to return home</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:16</date>
+  <millis>1434232396615</millis>
+  <sequence>21</sequence>
+  <logger>Tester</logger>
+  <level>WARNING</level>
+  <class>Tester</class>
+  <method>checkIfKicked</method>
+  <thread>1</thread>
+  <message>Resetting to zoomed out and dragged up after reload</message>
+</record>
+<record>
+  <date>2015-06-13T14:53:33</date>
+  <millis>1434232413219</millis>
+  <sequence>22</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:00</date>
+  <millis>1434232440021</millis>
+  <sequence>23</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:00</date>
+  <millis>1434232440022</millis>
+  <sequence>24</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Waiting for army camp to fill...</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:04</date>
+  <millis>1434232444435</millis>
+  <sequence>25</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Done filling army camp!</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:06</date>
+  <millis>1434232446437</millis>
+  <sequence>26</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:33</date>
+  <millis>1434232473239</millis>
+  <sequence>27</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T14:54:48</date>
+  <millis>1434232488498</millis>
+  <sequence>28</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:55:02</date>
+  <millis>1434232502128</millis>
+  <sequence>29</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:55:15</date>
+  <millis>1434232515755</millis>
+  <sequence>30</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:55:29</date>
+  <millis>1434232529369</millis>
+  <sequence>31</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:55:43</date>
+  <millis>1434232543047</millis>
+  <sequence>32</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:55:56</date>
+  <millis>1434232556699</millis>
+  <sequence>33</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:56:10</date>
+  <millis>1434232570317</millis>
+  <sequence>34</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:56:23</date>
+  <millis>1434232583926</millis>
+  <sequence>35</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:56:37</date>
+  <millis>1434232597544</millis>
+  <sequence>36</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:56:51</date>
+  <millis>1434232611158</millis>
+  <sequence>37</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:57:04</date>
+  <millis>1434232624792</millis>
+  <sequence>38</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:57:18</date>
+  <millis>1434232638486</millis>
+  <sequence>39</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:57:32</date>
+  <millis>1434232652148</millis>
+  <sequence>40</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:57:45</date>
+  <millis>1434232665822</millis>
+  <sequence>41</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:57:59</date>
+  <millis>1434232679462</millis>
+  <sequence>42</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:58:13</date>
+  <millis>1434232693149</millis>
+  <sequence>43</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:58:26</date>
+  <millis>1434232706823</millis>
+  <sequence>44</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:58:40</date>
+  <millis>1434232720461</millis>
+  <sequence>45</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:58:54</date>
+  <millis>1434232734101</millis>
+  <sequence>46</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:59:07</date>
+  <millis>1434232747769</millis>
+  <sequence>47</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:59:21</date>
+  <millis>1434232761395</millis>
+  <sequence>48</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:59:35</date>
+  <millis>1434232775019</millis>
+  <sequence>49</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T14:59:48</date>
+  <millis>1434232788659</millis>
+  <sequence>50</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:00:02</date>
+  <millis>1434232802285</millis>
+  <sequence>51</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:00:15</date>
+  <millis>1434232815926</millis>
+  <sequence>52</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:00:29</date>
+  <millis>1434232829561</millis>
+  <sequence>53</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:00:43</date>
+  <millis>1434232843244</millis>
+  <sequence>54</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:00:56</date>
+  <millis>1434232856885</millis>
+  <sequence>55</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:01:10</date>
+  <millis>1434232870542</millis>
+  <sequence>56</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:01:24</date>
+  <millis>1434232884184</millis>
+  <sequence>57</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:01:37</date>
+  <millis>1434232897807</millis>
+  <sequence>58</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:01:51</date>
+  <millis>1434232911413</millis>
+  <sequence>59</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:02:05</date>
+  <millis>1434232925039</millis>
+  <sequence>60</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:02:18</date>
+  <millis>1434232938669</millis>
+  <sequence>61</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:02:32</date>
+  <millis>1434232952290</millis>
+  <sequence>62</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:02:45</date>
+  <millis>1434232965905</millis>
+  <sequence>63</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:02:59</date>
+  <millis>1434232979517</millis>
+  <sequence>64</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:03:13</date>
+  <millis>1434232993136</millis>
+  <sequence>65</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:03:26</date>
+  <millis>1434233006774</millis>
+  <sequence>66</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:03:40</date>
+  <millis>1434233020391</millis>
+  <sequence>67</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:03:54</date>
+  <millis>1434233034033</millis>
+  <sequence>68</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:04:07</date>
+  <millis>1434233047669</millis>
+  <sequence>69</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:04:21</date>
+  <millis>1434233061319</millis>
+  <sequence>70</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:04:34</date>
+  <millis>1434233074960</millis>
+  <sequence>71</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Attacking this base (0 so far)...</message>
+</record>
+<record>
+  <date>2015-06-13T15:04:34</date>
+  <millis>1434233074961</millis>
+  <sequence>72</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Saving image data for base to 2015-06-13_17-04-34_0</message>
+</record>
+<record>
+  <date>2015-06-13T15:05:41</date>
+  <millis>1434233141368</millis>
+  <sequence>73</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Done attacking base!</message>
+</record>
+<record>
+  <date>2015-06-13T15:08:14</date>
+  <millis>1434233294633</millis>
+  <sequence>74</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>waiting to return home</message>
+</record>
+<record>
+  <date>2015-06-13T15:08:17</date>
+  <millis>1434233297402</millis>
+  <sequence>75</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T15:08:44</date>
+  <millis>1434233324204</millis>
+  <sequence>76</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T15:08:44</date>
+  <millis>1434233324204</millis>
+  <sequence>77</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Waiting for army camp to fill...</message>
+</record>
+<record>
+  <date>2015-06-13T15:14:46</date>
+  <millis>1434233686122</millis>
+  <sequence>78</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Done filling army camp!</message>
+</record>
+<record>
+  <date>2015-06-13T15:14:48</date>
+  <millis>1434233688122</millis>
+  <sequence>79</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T15:15:14</date>
+  <millis>1434233714925</millis>
+  <sequence>80</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T15:15:30</date>
+  <millis>1434233730158</millis>
+  <sequence>81</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:15:43</date>
+  <millis>1434233743781</millis>
+  <sequence>82</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:15:57</date>
+  <millis>1434233757411</millis>
+  <sequence>83</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:16:11</date>
+  <millis>1434233771074</millis>
+  <sequence>84</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:16:24</date>
+  <millis>1434233784692</millis>
+  <sequence>85</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:16:38</date>
+  <millis>1434233798381</millis>
+  <sequence>86</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:16:52</date>
+  <millis>1434233812016</millis>
+  <sequence>87</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:17:05</date>
+  <millis>1434233825648</millis>
+  <sequence>88</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:17:19</date>
+  <millis>1434233839283</millis>
+  <sequence>89</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:17:32</date>
+  <millis>1434233852915</millis>
+  <sequence>90</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:17:46</date>
+  <millis>1434233866549</millis>
+  <sequence>91</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:18:00</date>
+  <millis>1434233880188</millis>
+  <sequence>92</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:18:13</date>
+  <millis>1434233893835</millis>
+  <sequence>93</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:18:27</date>
+  <millis>1434233907606</millis>
+  <sequence>94</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:18:41</date>
+  <millis>1434233921245</millis>
+  <sequence>95</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Attacking this base (1 so far)...</message>
+</record>
+<record>
+  <date>2015-06-13T15:18:41</date>
+  <millis>1434233921245</millis>
+  <sequence>96</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Saving image data for base to 2015-06-13_17-18-41_1</message>
+</record>
+<record>
+  <date>2015-06-13T15:19:41</date>
+  <millis>1434233981619</millis>
+  <sequence>97</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Done attacking base!</message>
+</record>
+<record>
+  <date>2015-06-13T15:22:27</date>
+  <millis>1434234147771</millis>
+  <sequence>98</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>waiting to return home</message>
+</record>
+<record>
+  <date>2015-06-13T15:22:30</date>
+  <millis>1434234150541</millis>
+  <sequence>99</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T15:22:57</date>
+  <millis>1434234177343</millis>
+  <sequence>100</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T15:22:57</date>
+  <millis>1434234177343</millis>
+  <sequence>101</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Waiting for army camp to fill...</message>
+</record>
+<record>
+  <date>2015-06-13T15:35:24</date>
+  <millis>1434234924669</millis>
+  <sequence>102</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>waitForFullArmyCamp</method>
+  <thread>1</thread>
+  <message>Done filling army camp!</message>
+</record>
+<record>
+  <date>2015-06-13T15:35:26</date>
+  <millis>1434234926671</millis>
+  <sequence>103</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Training troops...</message>
+</record>
+<record>
+  <date>2015-06-13T15:35:53</date>
+  <millis>1434234953473</millis>
+  <sequence>104</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>trainTroops</method>
+  <thread>1</thread>
+  <message>Done training troops!</message>
+</record>
+<record>
+  <date>2015-06-13T15:36:08</date>
+  <millis>1434234968702</millis>
+  <sequence>105</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:36:22</date>
+  <millis>1434234982336</millis>
+  <sequence>106</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:36:35</date>
+  <millis>1434234995939</millis>
+  <sequence>107</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:36:49</date>
+  <millis>1434235009549</millis>
+  <sequence>108</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:37:03</date>
+  <millis>1434235023158</millis>
+  <sequence>109</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:37:16</date>
+  <millis>1434235036796</millis>
+  <sequence>110</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:37:30</date>
+  <millis>1434235050407</millis>
+  <sequence>111</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:37:44</date>
+  <millis>1434235064051</millis>
+  <sequence>112</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:37:57</date>
+  <millis>1434235077669</millis>
+  <sequence>113</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:38:11</date>
+  <millis>1434235091306</millis>
+  <sequence>114</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:38:24</date>
+  <millis>1434235104921</millis>
+  <sequence>115</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:38:38</date>
+  <millis>1434235118572</millis>
+  <sequence>116</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:38:52</date>
+  <millis>1434235132187</millis>
+  <sequence>117</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:39:05</date>
+  <millis>1434235145833</millis>
+  <sequence>118</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:39:19</date>
+  <millis>1434235159442</millis>
+  <sequence>119</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:39:33</date>
+  <millis>1434235173092</millis>
+  <sequence>120</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:39:46</date>
+  <millis>1434235186706</millis>
+  <sequence>121</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:40:00</date>
+  <millis>1434235200424</millis>
+  <sequence>122</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:40:14</date>
+  <millis>1434235214109</millis>
+  <sequence>123</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:40:27</date>
+  <millis>1434235227726</millis>
+  <sequence>124</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:40:41</date>
+  <millis>1434235241341</millis>
+  <sequence>125</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:40:54</date>
+  <millis>1434235254937</millis>
+  <sequence>126</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:41:08</date>
+  <millis>1434235268549</millis>
+  <sequence>127</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:41:22</date>
+  <millis>1434235282192</millis>
+  <sequence>128</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:41:35</date>
+  <millis>1434235295822</millis>
+  <sequence>129</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:41:49</date>
+  <millis>1434235309457</millis>
+  <sequence>130</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:42:03</date>
+  <millis>1434235323089</millis>
+  <sequence>131</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:42:16</date>
+  <millis>1434235336733</millis>
+  <sequence>132</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:42:30</date>
+  <millis>1434235350351</millis>
+  <sequence>133</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:42:43</date>
+  <millis>1434235363993</millis>
+  <sequence>134</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:42:57</date>
+  <millis>1434235377647</millis>
+  <sequence>135</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:43:11</date>
+  <millis>1434235391285</millis>
+  <sequence>136</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:43:24</date>
+  <millis>1434235404901</millis>
+  <sequence>137</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:43:38</date>
+  <millis>1434235418521</millis>
+  <sequence>138</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:43:52</date>
+  <millis>1434235432199</millis>
+  <sequence>139</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:44:05</date>
+  <millis>1434235445826</millis>
+  <sequence>140</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>
+<record>
+  <date>2015-06-13T15:44:19</date>
+  <millis>1434235459489</millis>
+  <sequence>141</sequence>
+  <logger>Tester</logger>
+  <level>INFO</level>
+  <class>Tester</class>
+  <method>baseSearch</method>
+  <thread>1</thread>
+  <message>Skipping this base</message>
+</record>

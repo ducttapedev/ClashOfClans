@@ -1,0 +1,39 @@
+train = 1150,916
+nextTrain = 1423,540
+archer = 736,514
+barb = 564,514
+info = 816,930
+disableShield = 1038,630
+
+attack = 125,942
+findMatch = 385,791
+nextMatch = 1610,765
+endBattle = 131,795
+returnHome = 908,866
+
+unit1 = 329,939
+unit2 = 452,936
+unit3 = 556,929
+unit4 = 671,930
+unit5 = 784,932
+unit6 = 918,929
+unit7 = 1026,928
+unit8 = 1129,941
+
+reset1 = 1800,536
+reset2 = 460,566
+reset3 = 1051,9
+reset4 = 999,12
+
+screenUp = 900,200
+screenDown = 900,800
+screenLeft = 451,494
+screenRight = 750,494
+
+goldColor = 255,251,204
+elixirColor = 255,232,253
+darkElixirColor = 243,243,243
+
+lootInfoBox = 100,120,170,150
+topScreen = 106,26,1544,622
+bottomScreen = 106,329,1544,513

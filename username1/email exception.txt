@@ -1,0 +1,48 @@
+eSearch
+INFO: Skipping this base
+Jul 30, 2015 7:13:01 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:13:15 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:13:29 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:13:43 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:13:57 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:14:10 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:14:24 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:14:38 AM Tester baseSearch
+INFO: Skipping this base
+Jul 30, 2015 7:21:21 AM Tester resetGame
+SEVERE: Requested a game reset, messaging human...
+com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 465; timeout -1;
+  nested exception is:
+	java.net.SocketException: Permission denied: connect
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2054)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:697)
+	at javax.mail.Service.connect(Service.java:364)
+	at javax.mail.Service.connect(Service.java:245)
+	at GoogleMail.Send(GoogleMail.java:93)
+	at GoogleMail.Send(GoogleMail.java:36)
+	at Tester.resetGame(Tester.java:252)
+	at Tester.baseSearch(Tester.java:452)
+	at Tester.run(Tester.java:174)
+	at Tester.botIndefinitely(Tester.java:76)
+	at Tester.main(Tester.java:63)
+Caused by: java.net.SocketException: Permission denied: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at com.sun.mail.util.SocketFetcher.createSocket(SocketFetcher.java:329)
+	at com.sun.mail.util.SocketFetcher.getSocket(SocketFetcher.java:236)
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:2020)
+	... 10 more

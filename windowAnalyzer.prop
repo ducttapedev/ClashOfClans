@@ -1,0 +1,17 @@
+s1 = home, img\\home.png, 0.4, 0
+#s2 = home popup, img\\homePopup.png, 0.4, 0
+s3 = pre-battle, img\\preBattle.png, 0.4, 0
+s4 = battle end, img\\battleEnd.png, 0.5, 0
+s5 = battle surrender, img\\battleSurrender.png, 0.5, 0
+s6 = post-battle, img\\postBattle.png, 0.4, 0
+s7 = inactive, img\\inactive.png, 0.1, 0
+s8 = take a break, img\\takeABreak.png, 0.1, 0
+s9 = full army camp, img\\fullArmyCamp.png, 1, 0
+s10 = shield, img\\shield.png, 0.9, 0
+s11 = disconnected, img\\disconnected.png, 0.1, 0
+s12 = king, img\\king.png, 10, 0
+s13 = queen, img\\queen.png, 10, 0
+s14 = maximize, img\\maximizeWindow.png, 0.1, 0
+s15 = launch, img\\launchIcon.png, 0.1, 0
+s16 = restore, img\\Picture5.png, 0.1, 0
+s17 = android home, img\\androidHomeKey.png, 0.1, 0

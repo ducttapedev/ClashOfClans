@@ -1,0 +1,13 @@
+#fileIdentifier = programIdentifier, imagePath (from src), maxDiff*256, multiplier, blur std dev
+
+t2 =    elixir11 half, username1\\img\\elixir11_half.png, 10, 0, 0.75
+t2a =   elixir12 half, username1\\img\\elixir12_half.png, 10, 0, 1.00
+t3 =    elixir9, username1\\img\\elixir9.png, 14, 0, 0.75
+t4 =    elixir10, username1\\img\\elixir10.png, 14, 0, 1.00
+t5 =    elixir11, username1\\img\\elixir11.png, 14, 0, 1.50
+
+#t1 =   almost full collector, img\\elixir.png, 10, 0
+#t3 =   full drill, img\\fullDrill.png, 10, 0
+#t4 =   drill4, img\\drill4.png, 10, 0
+#t5 =   drill5, img\\drill5.png, 10, 0
+#t6 =   drill6, img\\drill6.png, 10, 0

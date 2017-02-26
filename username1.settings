@@ -1,0 +1,7 @@
+coordsFilename = username1\\coordinates.prop
+baseAnalyzerFilename = baseAnalyzer.prop
+windowAnalyzerFilename = windowAnalyzer.prop
+logFolder = username1\\logs
+dataFolder = full_logs\\username1
+numBarbs = 122
+numArchers = 98
