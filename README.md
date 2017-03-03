@@ -1,3 +1,5 @@
+NOTE: This project was previously private because it contained personal information, such as the email I sent notifications to when the bot required a manual reset. That is why there is a lack of public change history.
+
 Clash of Clans intelligent agent
 Designed and implemented by Michael Cheung (https://github.com/michaelscheung)
 
